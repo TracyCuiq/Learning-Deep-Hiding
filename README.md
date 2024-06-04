@@ -1,5 +1,9 @@
 # Learning Deep Image Hiidng [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Image-Hiding)](.)
 
+##### ![](https://img.shields.io/badge/Robust-General_Distortion_Resistant_scenario-blue)
+- [2024/05] **[Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/pdf/2405.11523)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Diffusion-Based+Hierarchical+Image+Steganography&btnG=) ![](https://img.shields.io/badge/Diffusion_-8A2BE2)
+
+
 ##### ![](https://img.shields.io/badge/Robust-Screen_Shooting_scenario-blue)
 - [2024/05] **[DBDH: A Dual-Branch Dual-Head Neural Network for Invisible Embedded Regions Localization](https://arxiv.org/pdf/2405.03436)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&as_ylo=2024&cites=12518573255228036630&scipsc=&q=DBDH%3A+A+Dual-Branch+Dual-Head+Neural+Network+for+Invisible+Embedded+Regions+Localization&btnG=)
 - [2022] **[Pimog: An effective screen-shooting noise-layer simulation for deep-learning-based watermarking network](https://dl.acm.org/doi/pdf/10.1145/3503161.3548049)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pimog%3A+An+effective+screen-shooting+noise-layer+simulation+for+deep-learning-based+watermarking+network&btnG=) ![](https://img.shields.io/badge/ACM_MM_2022_-f1b800)
