@@ -1,4 +1,4 @@
-# Learning Deep Image Hiidng [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Image-Hiding)](.)
+# Learning Deep Image Hidng [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Image-Hiding)](.)
 
 ##### ![](https://img.shields.io/badge/Robust-General_Distortion_Resistant-blue)
 - [2024/05] **[Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/pdf/2405.11523)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Diffusion-Based+Hierarchical+Image+Steganography&btnG=) ![](https://img.shields.io/badge/Diffusion_-8A2BE2)
@@ -40,7 +40,7 @@ Steganography via Attention Flow-Based Model](https://arxiv.org/pdf/2405.16414)*
 
 
 ##### ![](https://img.shields.io/badge/Others-DNN-orange)
-- [2024/02] **[Purified and Unified Steganographic Network](https://arxiv.org/pdf/2405.15118)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://arxiv.org/pdf/2402.17210) ![](https://img.shields.io/badge/CVPR_2024-f1b800)
+- [2024/02] **[Purified and Unified Steganographic Network](https://arxiv.org/pdf/2405.15118)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Purified+and+Unified+Steganographic+Network&btnG=) ![](https://img.shields.io/badge/CVPR_2024-f1b800)
 
 
 ##### ![](https://img.shields.io/badge/Others-3D-orange)
