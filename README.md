@@ -1,4 +1,6 @@
-# Learning Deep Hidng [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Hiding)](.)
+# Learning Deep Hidng 
+[![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Hiding)](.) [![Page Views Count](https://badges.toozhao.com/badges/01HZKEAGSA9Y9GAKN0RN8J84BG/green.svg)](.)
+
 This repo collects the paper list of *Deep Hiding*.
 I have compiled summaries of various papers and organized them into categories. Please feel free to contribute by submitting pull requests!
 
