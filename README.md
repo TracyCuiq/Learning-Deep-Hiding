@@ -1,4 +1,6 @@
 # Learning Deep Hidng [![Stars](https://img.shields.io/github/stars/TracyCuiq/Learning-Deep-Hiding)](.)
+This repo collects the paper list of *Deep Hiding*.
+I have compiled summaries of various papers and organized them into categories. Please feel free to contribute by submitting pull requests!
 
 ##### ![](https://img.shields.io/badge/Generative-General-white)
 - [2023/10] **[StegaDDPM: Generative Image Steganography based on Denoising Diffusion Probabilistic Model](https://dl.acm.org/doi/abs/10.1145/3581783.3612514)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=StegaDDPM%3A+Generative+Image+Steganography+based+on+Denoising+Diffusion+Probabilistic+Model&btnG=) ![](https://img.shields.io/badge/MM_2023-f1b800) ![](https://img.shields.io/badge/Diffusion_-8A2BE2)
