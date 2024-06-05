@@ -75,11 +75,4 @@ Steganography via Attention Flow-Based Model](https://arxiv.org/pdf/2405.16414)*
 
 ##### ![](https://img.shields.io/badge/Survey-811110)
 - [2024] **[Learning-based image steganography and watermarking: A survey](http://openaccess.thecvf.com/content/CVPR2023/papers/Mou_Large-Capacity_and_Flexible_Video_Steganography_via_Invertible_Neural_Network_CVPR_2023_paper.pdf)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning-based+image+steganography+and+watermarking%3A+A+survey&btnG=) ![](https://img.shields.io/badge/ESWA-f1b800) 
-- [2024] **[When deep learning meets watermarking: A survey of application, attacks and defenses](https://www.sciencedirect.com/science/article/pii/S0920548923001113)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=When+deep+learning+meets+watermarking%3A+A+survey+of+application%2C+attacks+and+defenses&btnG=) ![](https://img.shields.io/badge/Comput_Stand_Inter-f1b800) 
-<script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+- [2024] **[When deep learning meets watermarking: A survey of application, attacks and defenses](https://www.sciencedirect.com/science/article/pii/S0920548923001113)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/google-scholar.svg" alt="Code" width="20" height="20">](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=When+deep+learning+meets+watermarking%3A+A+survey+of+application%2C+attacks+and+defenses&btnG=) ![](https://img.shields.io/badge/Comput_Stand_Inter-f1b800) [👍](https://github.com/yourusername/yourrepository/issues/1)
